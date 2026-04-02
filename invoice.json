@@ -1,0 +1,1 @@
+{"invoice_number": "FV/1/2026", "buyer_name": "Jan Kowalski", "items": [{"name": "Laptop", "quantity": 1, "net": 3000, "vat": 690.0, "gross": 3690.0}, {"name": "Mysz", "quantity": 2, "net": 200, "vat": 46.0, "gross": 246.0}], "net_total": 3200, "vat_total": 736.0, "gross_total": 3936.0}
